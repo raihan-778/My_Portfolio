@@ -664,6 +664,7 @@ nav .menu-btn{
 
 @media(max-width:530px){
     body{
+	width:95%;
         margin:0;
         padding: 0;
     }
