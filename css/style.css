@@ -479,6 +479,8 @@ nav .menu-btn{
     display: none;
 }
 
+/*Media Query  for resposive issue */
+
 @media(max-width:1140px ){
     .content{
         width: 100%;
@@ -634,6 +636,12 @@ nav .menu-btn{
         transform:translate(-50%,-50%);
         margin:auto;
 
+    }
+    .contact-form input{
+        width: 90%;
+        margin:auto;
+       
+        
     }
     #contact img{
         height:200px;
